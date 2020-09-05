@@ -1,3 +1,12 @@
+Movie - Search movie from OMBb, used API
+--> npm i axios
+Weather - used API from open weather api
+--> npm i..
+Twitter clone - used firebase to store data
+--> npm i ...
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
