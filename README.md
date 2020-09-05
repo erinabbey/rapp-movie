@@ -4,7 +4,7 @@ Weather - used API from open weather api
 --> npm i..
 Twitter clone - used firebase to store data
 --> npm i ...
-
+If can not create react app by npx create-react-app *** then you should run npm install -g creact-react-app, and then run create-react-app ***
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
