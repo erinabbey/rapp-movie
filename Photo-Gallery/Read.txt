@@ -1,0 +1,2 @@
+npm i firebase
+npm i framer-motion
